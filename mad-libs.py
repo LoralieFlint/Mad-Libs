@@ -1,0 +1,17 @@
+# halloween madlibs
+holiday = input("enter a holiday: ")
+noun = input("give me a noun: ")
+person = input("give a persons name: ")
+adjective = input("give me an adjective: ")
+plural_body_part = input("name a plural body part: ")
+verb = input("give me a verb: ")
+adjective2 = input("another adjective: ")
+noun2 = input("another noun: ")
+food = input("first food you think of: ")
+plural_noun = input("a plural noun: ")
+
+print("I cant believe its already " + holiday + "!")
+print("I cant wait to put on my " + noun + " and visit every house in my neighborhood.")
+print("This year, I'm going to dress up as " + person + " who " + adjective + " " + plural_body_part + " .")
+print("Before I " + verb + ", I make sure to grab my " + adjective2 + " " + noun2 + " to hold all of my " + food + ".")
+print("Finally, all of my " + plural_noun + " are ready to go.")
